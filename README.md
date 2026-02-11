@@ -9,7 +9,7 @@ Functions:
 -----------
 
 1. `rp_align` - Aligns text or objects in a document horizontally/vertically.
-2. `rp_annotate` - Adds annotations like comments, notes, sticky notes etc.  to the doc.
+2. `rp_annotate` - Adds annotations like comments, notes, sticky notes etc. to the doc.
 3. `rp_arrow` - Draws arrows and callouts to point at specific areas of the page. 
 4. `rp_autocorrect` - Automatically corrects common spelling/grammar errors in text.
 5. `rp_backspace` - Deletes characters or words from a document, like backspacing.  
