@@ -56,28 +56,28 @@ Functions:
 46. `rp_overlay` - Draws overlays on top of images to add annotations, arrows pointing at things etc as you described above for marking up documents visually. 
 47. `rp_pagebreak` - Inserts page breaks into the layout so that certain blocks of text or objects start on a new page when printed out.  
 48. `rp_paragraph` - Creates paragraphs by adding spaces between lines and indenting first line as needed for formatting plain text input to look like proper paragraph structure in documents. 
-49. `rp_pen` - Allows drawing with pen-like tools on pages, similar to freehand but may have more control over stroke thickness etc  
+49. `rp_pen` - Allows drawing with pen-like tools on pages, similar to freehand but may have more control over stroke thickness etc.
 50. `rp_placeholder` - Inserts placeholder boxes that can be typed into or edited later as needed for creating templates and forms within documents. 
-51. `rp_print` - Prints out the document in ReadProof format, including all formatting elements like checkmarks, underlines etc when printed on paper  
-52. `rp_proofread` - Proofreads text to catch common errors and suggest corrections as you type or edit a document within ReadProof 
-53. `rp_rectangle` - Draws rectangles around specific areas of the page for emphasis similar to boxes but with straight sides instead of rounded corners like in box function  
-54. `rp_remove` - Removes selected text, objects and formatting elements from documents as needed during editing process 
-55. `rp_replace` - Replaces certain words or phrases within a document's content based on user input to edit the overall wording of what is written in doc  
-56. `rp_resize` - Resizes images, text blocks and other objects proportionally while maintaining aspect ratio as needed for proper formatting 
-57. `rp_rotate` - Rotates selected elements like boxes or arrows by a certain angle around their center point within the document layout  
-58. `rp_save` - Saves changes made to documents in ReadProof format, including all added annotations and edits so that they can be loaded back later 
-59. `rp_scale` - Scales up or down selected elements like images by a certain percentage while maintaining aspect ratio as needed for proper formatting  
-60. `rp_select` - Selects text blocks, objects and other elements within the document layout to allow editing of those specific parts without affecting surrounding content 
-61. `rp_shadow` - Adds shadows around selected elements like boxes or arrows in a doc by drawing them slightly offset from their actual position with reduced opacity  
-62. `rp_signature` - Allows users to draw digital signatures on documents using mouse/pen input and save those as part of the document's content 
-63. `rp_sidebar` - Creates sidebars within pages that contain additional information, notes or annotations related to main text but separated from it visually  
-64. `rp_smiley` - Inserts emoticons like smiley faces into documents for visual cues and reactions similar to emoticon function above but with more variety of expressions 
-65. `rp_split` - Splits a document at certain points, either by page or content based on user input so that it can be divided up into multiple separate files  
-66. `rp_strikethrough` - Strikes through selected text in documents to indicate words/phrases should not be included as part of final version 
-67. `rp_subscript` - Makes certain characters like numbers and letters appear smaller than surrounding text by placing them below the baseline for mathematical formulas or other specialized content  
-68. `rp_superscript` - Makes certain characters like exponents in math equations appear above the normal line of text to indicate they are raised up from main body 
-69. `rp_swap` - Swaps positions of two selected elements within a document's layout, such as moving an image over top another element or swapping order of boxes side by side  
-70. `rp_template` - Allows users to create reusable templates for documents that contain pre-formatted layouts and default content so they can be used repeatedly without having to start from scratch each time 
+51. `rp_print` - Prints out the document in ReadProof format, including all formatting elements like checkmarks, underlines etc when printed on paper.  
+52. `rp_proofread` - Proofreads text to catch common errors and suggest corrections as you type or edit a document within ReadProof.
+53. `rp_rectangle` - Draws rectangles around specific areas of the page for emphasis similar to boxes but with straight sides instead of rounded corners like in box function.  
+54. `rp_remove` - Removes selected text, objects and formatting elements from documents as needed during editing process. 
+55. `rp_replace` - Replaces certain words or phrases within a document's content based on user input to edit the overall wording of what is written in doc.  
+56. `rp_resize` - Resizes images, text blocks and other objects proportionally while maintaining aspect ratio as needed for proper formatting. 
+57. `rp_rotate` - Rotates selected elements like boxes or arrows by a certain angle around their center point within the document layout.  
+58. `rp_save` - Saves changes made to documents in ReadProof format, including all added annotations and edits so that they can be loaded back later. 
+59. `rp_scale` - Scales up or down selected elements like images by a certain percentage while maintaining aspect ratio as needed for proper formatting.  
+60. `rp_select` - Selects text blocks, objects and other elements within the document layout to allow editing of those specific parts without affecting surrounding content. 
+61. `rp_shadow` - Adds shadows around selected elements like boxes or arrows in a doc by drawing them slightly offset from their actual position with reduced opacity.  
+62. `rp_signature` - Allows users to draw digital signatures on documents using mouse/pen input and save those as part of the document's content. 
+63. `rp_sidebar` - Creates sidebars within pages that contain additional information, notes or annotations related to main text but separated from it visually.  
+64. `rp_smiley` - Inserts emoticons like smiley faces into documents for visual cues and reactions similar to emoticon function above but with more variety of expressions. 
+65. `rp_split` - Splits a document at certain points, either by page or content based on user input so that it can be divided up into multiple separate files.  
+66. `rp_strikethrough` - Strikes through selected text in documents to indicate words/phrases should not be included as part of final version. 
+67. `rp_subscript` - Makes certain characters like numbers and letters appear smaller than surrounding text by placing them below the baseline for mathematical formulas or other specialized content.  
+68. `rp_superscript` - Makes certain characters like exponents in math equations appear above the normal line of text to indicate they are raised up from main body. 
+69. `rp_swap` - Swaps positions of two selected elements within a document's layout, such as moving an image over top another element or swapping order of boxes side by side.  
+70. `rp_template` - Allows users to create reusable templates for documents that contain pre-formatted layouts and default content so they can be used repeatedly without having to start from scratch each time. 
 
 Prototype Lib
 -----------
